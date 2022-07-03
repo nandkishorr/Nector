@@ -115,15 +115,3 @@ button{
     border: ivory;
 }
  
-    
-@media screen and (max-width: 768px)
-{
-  .main{
-    width: 90%;
-    
-  }
-  .form{
-      font-size: 1em;
-
-  }
-}
